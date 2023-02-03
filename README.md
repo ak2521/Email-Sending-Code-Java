@@ -1,5 +1,5 @@
 # Email-Sending-Code-Java
-Ensure That You Have Less Secure Access else Follow The Steps In This Link https://youtu.be/pAPWBHxnFHM 
+Ensure That You Have Less Secure Access For You Gmail Account else Follow The Steps In This Link https://youtu.be/pAPWBHxnFHM 
 # Step 1 : 
 Open Netbans & Click Add Project And Select The Zip File Downloaded.
 # Step 2 : 
